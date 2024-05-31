@@ -18,11 +18,17 @@ run it
 
 
 you  can give these commands to my chatbot as it is a basic chatbot using if else
+
 hello
+
 what is your name
+
 write a joke
+
 describe yourself
+
 bye
+
 
 try  giving your own commands and share with me.
 
