@@ -5,15 +5,15 @@ class ChatbotApp:
         self.root = tk.Tk()
         self.root.title("Oceaneyes Chatbot")
         
-        # Create chat history display
+        #chat history display
         self.display = tk.Text(self.root, height=20, width=80)
         self.display.pack()
 
-        # Create input field
+        # input field
         self.user_input = tk.Entry(self.root, width=40)
         self.user_input.pack()
 
-        # Create send button
+        # send button
         self.send_button = tk.Button(self.root, text="Send", command=self.process_user_input)
         self.send_button.pack()
 
