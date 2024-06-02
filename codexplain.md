@@ -1,10 +1,10 @@
-This is a simple chatbot application using the Tkinter library in Python. Here's a breakdown of the code:
+# This is a simple chatbot application using the Tkinter library in Python. Here's a breakdown of the code:
 
-# import tkinter as tk
+    import tkinter as tk
 This line imports the Tkinter library, which is used for creating graphical user interfaces (GUIs) in Python.
 
 
-# class ChatbotApp:
+    class ChatbotApp:
     def __init__(self):
         self.root = tk.Tk()
         self.root.title("Oceaneyes Chatbot")
